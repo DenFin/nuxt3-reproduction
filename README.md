@@ -1,4 +1,11 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Minimal Reproduction
+
+## Issues
+- [[nuxt] [request error] [unhandled] [500] Unknown file extension ".css" pending triage](https://github.com/nuxt/framework/issues/8614)
+
+
+
+
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
